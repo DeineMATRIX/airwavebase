@@ -30,7 +30,7 @@ const TEAM_DATA = {
 "TeamMember_7",
 "TeamMember_8",
 "TeamMember_9",
-"themysticmountainshow"
+"theMysticMountainshow"
   ],
 
     TEAM_LOGO_URL: "logo.png",
